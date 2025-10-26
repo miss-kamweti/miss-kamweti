@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👩‍💻 Hi, I'm Maryann Kamweti!
 
-<!--
-**miss-kamweti/miss-kamweti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Software Engineer | Continuous Learner | AI-Augmented Problem Solver
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+**Languages:** JavaScript/TypeScript, Java, SQL, Bash  
+**Frameworks & Libraries:** React, Node.js  
+**Tools & Platforms:** Git, MongoDB  
+**AI Toolkit:** ChatGPT, Claude, Cursor, GitHub Copilot  
+
+
+## 🧠 AI-Powered Learning in Practice
+
+### 🚀 Deep Dive: Mastering Bash Streams & Pipelines
+
+I used **targeted AI prompting** to deconstruct a fundamental systems concept that had always puzzled me — *how Bash handles errors in pipelines.*
+
+```bash
+# The challenge: Understanding stderr behavior in pipelines
+cat nonexistent_file.txt | grep "pattern" | wc -l

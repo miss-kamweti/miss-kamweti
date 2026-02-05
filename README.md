@@ -1,39 +1,16 @@
-# 👩‍💻 Hi, I'm Maryann Kamweti  
+👩‍💻 Hi, I’m Maryann Kamweti
+ Computer Science Undergraduate | Software Development Intern
+👋 About Me
 
-### Junior Software Engineer | Curious Builder | AI-Augmented Learner  
+I am a third-year Computer Science undergraduate with a solid foundation in software development and hands-on experience building web and mobile applications. I enjoy developing clean, functional systems and applying software engineering principles to real-world problems, with a strong interest in frontend development, backend integration, and user-centered design.
 
----
+Technical Skills
+Languages: JavaScript, Java, SQL, Bash
+Frontend & Backend: React, Node.js
+Databases : MongoDB,
+Tools: Git, GitHub
 
-## 🛠 Technical Skills  
-
-**Languages:** JavaScript, TypeScript, Java, SQL, Bash  
-**Frameworks:** React, Node.js  
-**Tools & Platforms:** Git, MongoDB, Linux  
-**AI Toolkit:** ChatGPT, Claude, GitHub Copilot, Cursor  
-
----
-
-## 🚀 Featured Projects  
-
-### 🏡 [Airbnb Clone Project]()  
-A full-stack web app simulating key Airbnb functionalities — user authentication, listings, and booking management.  
-
-**Tech Stack:** React, Node.js, MongoDB  
-**Key Features:**  
-- Secure authentication system  
-- REST API integration  
-- Responsive design and real-time updates  
-
----
+ Links
+* 🔗 LinkedIn: [https://www.linkedin.com/in/maryann-kamweti/](https://www.linkedin.com/in/maryann-kamweti/)
 
 
-
-## 🧠 AI-Powered Learning in Action  
-
-### 🔍 Deep Dive: Mastering Bash Streams & Pipelines  
-
-Using **AI prompting**, I explored how Bash manages data and error streams in pipelines:  
-
-```bash
-# The challenge: Understanding stderr behavior in pipelines
-cat nonexistent_file.txt | grep "pattern" | wc -l
